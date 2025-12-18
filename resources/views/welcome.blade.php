@@ -193,7 +193,7 @@
                                         <input class="form-check-input hidden-radio" type="radio" name="service_type" id="weekend" value="weekend" required onchange="checkQuota()">
                                         <label class="service-card service-card-we rounded shadow-sm d-block" for="weekend">
                                             <div class="card-content-center p-3 text-center">
-                                                <div class="fw-bold fs-4 text-white mb-1">Pengambilan Weekend</div>
+                                                <div class="fw-bold fs-4 text-white mb-1">Lapor Aku Tunggu</div>
                                                 <div class="small fw-bold text-warning text-uppercase" style="letter-spacing: 1px;">(Sabtu & Minggu)</div>
                                                 <div class="small text-white opacity-75">Khusus Pengambilan Paspor</div>
                                             </div>
